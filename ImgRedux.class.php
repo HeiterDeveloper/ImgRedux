@@ -1,5 +1,11 @@
 <?php
-
+/**
+*@author Heiter Developer <dev@heiterdeveloper.com>
+*@link https://github.com/HeiterDeveloper/ImgRedux
+*@copyright 2018 Heiter Developer
+*@license Aapache License 2.0
+*@license https://www.apache.org/licenses/LICENSE-2.0 Apache License 2.0
+**/
 
 class ImgRedux{
 
